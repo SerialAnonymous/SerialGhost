@@ -1,0 +1,9 @@
+body{
+  background-color:#333333;
+}
+
+nav.navbar.navbar-default{
+  background:transparent;
+  border:none;
+}
+
